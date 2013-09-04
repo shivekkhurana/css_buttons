@@ -8,7 +8,7 @@ http://jsfiddle.net/shivekkhurana/TFNgP/
 Usage
 -----
 ```html
-<a class="init-button blue">Accept</a>
-<button class="init-button orange"></button>
-<input type="submit" class="init-button" value="Success"/>
+<a class="init_button blue">Accept</a>
+<button class="init_button orange">Go</button>
+<input type="submit" class="init_button red" value="Success"/>
 ```

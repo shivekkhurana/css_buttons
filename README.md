@@ -1,14 +1,7 @@
 CSS only buttons
 ================
+single button for projects 
 
-Facebook inspired css3 buttons for your next (amazing) web project.
+simple and cool
 
-http://jsfiddle.net/shivekkhurana/TFNgP/
-
-Usage
------
-```html
-<a class="init_button blue">Accept</a>
-<button class="init_button orange">Go</button>
-<input type="submit" class="init_button red" value="Success"/>
-```
+forked from shivekkhurana/css_buttons
